@@ -1,7 +1,7 @@
 Hi 👋 My name is Ricardo Comendador Escalona
 ============================================
 
-FullStack Web Developer and Designer
+Full Stack Web Developer and Designer
 --------------------------
 
 * 🌍  I'm based in Havana, Cuba
