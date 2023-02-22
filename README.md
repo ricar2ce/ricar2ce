@@ -6,7 +6,6 @@ Full Stack Web Developer and Designer
 
 * 🌍  I'm based in Havana, Cuba
 * ✉️  You can contact me at [ricardo@rcesoft.com](mailto:ricardo@rcesoft.com)
-* 🧠  I'm learning a advanced concepts of Angular
 <!-- * 🖥️  See my portfolio at [RCE Soft](http://rcesoft.com/ricardo) 
 
 * 🚀  I'm currently working on [Dartesoft](http://dartesoft.com)-->
