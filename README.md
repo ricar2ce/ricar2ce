@@ -53,6 +53,9 @@ src="https://img.shields.io/twitter/follow/e_comendador?logo=twitter&style=for-t
 </p>
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ricar2ce&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ricar2ce" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ricardocomendadorescalona" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/e_comendador" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
