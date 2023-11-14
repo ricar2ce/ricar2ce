@@ -52,6 +52,7 @@ src="https://img.shields.io/twitter/follow/e_comendador?logo=twitter&style=for-t
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Activities
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ricar2ce&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
