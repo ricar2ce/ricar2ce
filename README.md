@@ -54,7 +54,7 @@ src="https://img.shields.io/twitter/follow/e_comendador?logo=twitter&style=for-t
 
 ### Activities
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ricar2ce&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ricar2ce&columns=6&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Socials
