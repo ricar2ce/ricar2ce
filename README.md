@@ -18,10 +18,6 @@ Full Stack Web Developer and Designer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricar2ce&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
 
-### PRUEBAS
-
-GITHUB_ACTIVITY:{"rows": 5, "raw": true}
-
 ### Skills
 
 <p align="left">
