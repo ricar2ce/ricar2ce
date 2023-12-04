@@ -8,13 +8,12 @@ Full Stack Web Developer and Designer
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ricar2ce&column=-1&no-frame=true&no-bg=true&theme=onestar&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div style="display: flex-inline">
-<img src="https://github-readme-stats.vercel.app/api?username=ricar2ce&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ricar2ce's GitHub stats" /> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricar2ce&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
 
+<img src="https://github-readme-stats.vercel.app/api?username=ricar2ce&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ricar2ce's GitHub stats" /> 
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricar2ce&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</div>
 
 [![Ricardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ricar2ce&theme=react-dark&count=all&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
