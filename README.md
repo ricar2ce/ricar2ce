@@ -3,6 +3,7 @@ Hi 👋 My name is Ricardo Comendador Escalona
 
 Full Stack Web Developer and Designer
 --------------------------
+<!--[![committers.top badge](https://user-badge.committers.top/cuba/USERNAME.svg)](https://user-badge.committers.top/cuba/ricar2ce)-->
 
 <!--<b>My GitHub Stats</b>-->
 
@@ -19,8 +20,6 @@ Full Stack Web Developer and Designer
 
 
 ### About me
-
-<!--[![committers.top badge](https://user-badge.committers.top/cuba/USERNAME.svg)](https://user-badge.committers.top/cuba/ricar2ce)-->
 
 * 🌍  I'm based in Havana, Cuba
 * ✉️  You can contact me at [ricardo@rcesoft.com](mailto:ricardo@rcesoft.com)
