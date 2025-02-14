@@ -20,6 +20,8 @@ Full Stack Web Developer and Designer
 
 ### About me
 
+<!--[![committers.top badge](https://user-badge.committers.top/cuba/USERNAME.svg)](https://user-badge.committers.top/cuba/ricar2ce)-->
+
 * 🌍  I'm based in Havana, Cuba
 * ✉️  You can contact me at [ricardo@rcesoft.com](mailto:ricardo@rcesoft.com)
 <!-- * 🖥️  See my portfolio at [RCE Soft](http://rcesoft.com/ricardo) 
